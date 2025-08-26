@@ -3,10 +3,13 @@ layout: page
 title: Location
 ---
 These GAP Days will take place in Porto (Portugal),
-at the [University of Porto](https://www.up.pt//).
+at the [University of Porto](https://www.up.pt/).
 
-<p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>
+<!-- <p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p> -->
 
+Details will be made available here at a later date.
+
+<!-- 
 ## Address
 
 The meeting takes place at TODO: provide the address, room numbers, etc. plus perhaps directions
@@ -21,6 +24,7 @@ Apartments or rooms are sometimes available on Booking.com / Airbnb / VRBO.
 ## Restaurants
 
 TODO: recommend some restaurants? or delete this section
+ -->
 
 ## Virtual locations
 
