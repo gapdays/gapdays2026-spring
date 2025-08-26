@@ -59,9 +59,10 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 
 The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
-{{site.title}} is organised through the University of Porto by
+{{site.title}} is organised by
 
-* [Manuel Delgado](https://cmup.pt/user/546/)
+* [Manuel Delgado](https://cmup.pt/user/546/) (local organizer)
+* [Max Horn](https://www.quendi.de/en/math)
 
 ## Registration
 
