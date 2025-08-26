@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: open
+registration_state: notyet
 ---
 
 {% case page.registration_state %}
@@ -28,7 +28,7 @@ registration form whether you would like to give a short talk about your
 research on computational mathematics utilizing GAP! 
 
 ### Registration form
-To register please use [this form](https://forms.gle/cigDvp4dMNpHjCJv5).
+To register please TODO.
 
 
 ### On funding

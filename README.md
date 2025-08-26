@@ -1,4 +1,4 @@
-This is the website for the [GAP days](https://www.gapdays.de/gapdays2025-summer).
+This is the website for the [GAP days](https://www.gapdays.de/gapdays2026-spring).
 
 It is based on [Jekyll](https://jekyllrb.com/), a static website generator,
 and the [hyde](https://github.com/poole/hyde/) template.
@@ -6,8 +6,8 @@ and the [hyde](https://github.com/poole/hyde/) template.
 If you want to test site on your own machine, you need to have `ruby`
 and `bundler` installed. Afterwards, for the first time set up, do this:
 
-    git clone https://github.com/gapdays/gapdays2025-summer
-    cd gapdays2025-summer
+    git clone https://github.com/gapdays/gapdays2026-spring
+    cd gapdays2026-spring
     bundle install
 
 Now whenever you want to work test the site locally, you can do this:

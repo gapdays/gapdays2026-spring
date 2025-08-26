@@ -6,13 +6,13 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'GAP Days Summer 2025'
+title:            'GAP Days Spring 2026'
 tagline:          'A workshop for GAP developers and users'
-description:      '25-29 August 2025'
-location:         'University of Primorska, Koper, Slovenia'
+description:      '4-8 May 2026'
+location:         'University of Porto, Portugal'
 url:              https://www.gapdays.de
-baseurl:          /gapdays2025-summer
-email:            gapdays2025-summer@gapdays.de
+baseurl:          /gapdays2026-spring
+email:            gapdays2026-spring@gapdays.de
 
 exclude: 
     - "LICENSE.hyde.md"

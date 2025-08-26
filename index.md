@@ -36,7 +36,7 @@ and its infrastructure.
 Please visit the [topics page]({{ site.baseurl }}/topics) for details.
 -->
 
-The GAP Days Summer 2025 will be the first edition in Koper, Slovenia!
+The GAP Days Spring 2026 will be the first edition in Porto, Portugal!
 
 <!--
 Since this is the first edition on Belgian soil, the organizers would like 
@@ -61,11 +61,9 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 
 The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
-{{site.title}} is organised through the University of Primorska and the University of Ljubljana by
+{{site.title}} is organised through the University of Porto by
 
-* [Rhys Evans](https://rhysje00.github.io)
-* [Michel Lavrauw](https://mlavrauw.github.io)
-* [Russ Woodroofe](https://osebje.famnit.upr.si/~russ.woodroofe/)
+* [Manuel Delgado](https://cmup.pt/user/546/)
 
 ## Registration
 
