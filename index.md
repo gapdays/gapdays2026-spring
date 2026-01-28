@@ -69,6 +69,13 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
+## Sponsors
+
+This workshop is (partially) supported by FCT through [CMUP]{https://cmup.pt/): UID/00144/2025
+DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
+
+[LogoCMUP](logos/LogoCMUP_positivo.png)
+
 <!--
 ## Sponsors
 
