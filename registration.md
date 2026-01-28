@@ -23,26 +23,26 @@ We are looking for more talks, so please <a href="mailto:{{site.email}}">contact
 -->
 
 ### Talks
-We will have some slots for contributed talks. You can indicated through the
+We will have some slots for contributed talks. You can indicate through the
 registration form whether you would like to give a short talk about your
 research on computational mathematics utilizing GAP! 
 
 ### Registration form
-To register please TODO.
+To register please fill out the linked [form](https://forms.gle/t5JzFUviphXFd8hT6).
 
 
 ### On funding
-<!-- We have some limited funding to support travel and accommodation costs
+We have some limited funding to support travel and accommodation costs
 (partially or fully) for students and early-career researchers, and/or for those with caring responsibilities. 
 If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.email}}</a> containing the following information
 
-- provide an estimate of much support you expect to need, and
+- provide an estimate of how much support you expect to need, and
 - include a brief explanation of the aims you hope to achieve during
   your visit and, if applicable, whether and how your visit would be
   beneficial to the GAP system and community.
 
-Initial decisions on whether we can grant support and how much will be made on or shortly after <b>31st&nbsp;July&nbsp;2025</b>. -->
-The funding deadline has now passed.
+Initial decisions on whether we can grant support and how much will be made on or shortly after <b>1st&nbsp;April&nbsp;2026</b>.
+<!-- The funding deadline has now passed. -->
 <!-- We may be able to support later applications depending on the amount, so please don't hesitate to ask. -->
 
 ### Questions?
