@@ -63,7 +63,7 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Max Horn](https://www.quendi.de/en/math)
 
-## Registration
+## Registration <p class="message">Registration is open.</p>
 
 {{site.title}} will take place at {{ site.location }}.
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
