@@ -71,10 +71,11 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 ## Sponsors
 
-This workshop is (partially) supported by FCT through [CMUP]{https://cmup.pt/): UID/00144/2025
+This workshop is (partially) supported by FCT through [CMUP](https://cmup.pt/): UID/00144/2025
 DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
 
-[LogoCMUP](logos/LogoCMUP_positivo.png)
+[<img src="{{ site.baseurl }}/logos/LogoCMUP_positivo.png" />]({{ site.baseurl }}/logos/LogoCMUP_positivo.png)
+
 
 <!--
 ## Sponsors
