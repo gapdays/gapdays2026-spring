@@ -7,7 +7,9 @@ participants:
   - {name: Ferreira Juan David, affiliation: "CIEM - FaMAF -UNC, Argentina"}
   - {name: Lukas Schnelle, affiliation: "ART/SLA RWTH Aachen University, Germany"}
   - {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
-  - {name: , affiliation: ""}
+  - {name: Max Horn, affiliation: "RPTU University Kaiserslautern-Landau"}
+  - {name: Matthias Koeppe, affiliation: "University of California, Davis"}
+  - {name: Pedro A. García-Sánchez, affiliation: "University of Granada"}
   - {name: , affiliation: ""}
 ---
 
