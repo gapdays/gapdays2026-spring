@@ -7,8 +7,28 @@ participants:
   - {name: Ferreira Juan David, affiliation: "CIEM - FaMAF -UNC, Argentina"}
   - {name: Lukas Schnelle, affiliation: "ART/SLA RWTH Aachen University, Germany"}
   - {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
+  <!--
   - {name: , affiliation: ""}
   - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
+  -->
 ---
 
 <ol>{% assign participants = page.participants %}
