@@ -3,6 +3,12 @@ layout: page
 title: Participants
 participants:
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
+  - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
+  - {name: Ferreira Juan David, affiliation: "CIEM - FaMAF -UNC, Argentina"}
+  - {name: Lukas Schnelle, affiliation: "ART/SLA RWTH Aachen University, Germany"}
+  - {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
+  - {name: , affiliation: ""}
+  - {name: , affiliation: ""}
 ---
 
 <ol>{% assign participants = page.participants %}
