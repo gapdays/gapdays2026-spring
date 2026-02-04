@@ -13,6 +13,9 @@ participants:
   - {name: Wilf Wilson, affiliation: "UK Met Office, UK"}
   - {name: Kamil Zabielski, affiliation: "Białystok University of Technology, Poland"}
   - {name: Pete Gautam, affiliation: "University of Manchester, UK"}
+  - {name: Leonard Soicher, affiliation: "Queen Mary University of London, UK"}
+  - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
+  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Statistics, Faculty of Basic Sciences, University of Kashan, Kashan, I.R. Iran"}
   - {name: , affiliation: ""}
 ---
 
