@@ -17,6 +17,7 @@ participants:
   - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
   - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Statistics, Faculty of Basic Sciences, University of Kashan, Kashan, I.R. Iran"}
   - {name: Joseph Daynger Ruiz, affiliation: "University of Arizona, USA"}
+  - {name: Frank Lübeck, affiliation: "RWTH Aachen"}
   - {name: , affiliation: ""}
 ---
 
