@@ -20,7 +20,7 @@ participants:
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: Josh Bridges, affiliation: "University of Birmingham, UK"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
-  - {name: , affiliation: ""}
+  #- {name: , affiliation: ""}
 ---
 
 <ol>{% assign participants = page.participants %}
