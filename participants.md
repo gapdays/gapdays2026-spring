@@ -24,6 +24,7 @@ participants:
   - {name: El Bachir DOUIF, affiliation: "Ibn Tofail University, National School of Applied Sciences, Morocco"}
   - {name: Zakariae Bouazzaoui, affiliation: "Mohamed first university, school of education and training, Morocco"}
   - {name: , affiliation: ""}
+---
 
 <ol>{% assign participants = page.participants %}
 {% for p in participants %}
