@@ -79,7 +79,7 @@ DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
 
 <p>
 
-We also acknowledge partial support by U.Porto and CGD through the "Protocolo de Cooperação U.Porto — CGD"
+We also acknowledge partial support by U.Porto and CGD through the [Protocolo de Cooperação U.Porto -- CGD](https://www.up.pt/apoios/)
 
 <img align="right" width="45%" src="{{ site.baseurl }}/logos/UPORTO.png" ><img align="left" width="45%" src="{{ site.baseurl }}/logos/CGD.png">
 
