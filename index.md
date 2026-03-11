@@ -89,9 +89,9 @@ acknowledge Russ's grant, Primož's project
 
 This workshop is supported by ***
 -->
-
+<!--
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
 email via [{{site.email}}](mailto:{{site.email}}).
-
+-->
