@@ -72,15 +72,12 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 ## Sponsors
 
  - This workshop is (partially) supported by FCT through [CMUP](https://cmup.pt/): UID/00144/2025  
-DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
-
+DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)  
 <img align="left" width="45%" src="{{ site.baseurl }}/logos/CMUP.png">
 <img align="right" width="45%" src="{{ site.baseurl }}/logos/FCT.png">  
-
- - We also acknowledge partial support by U.Porto and CGD through the [Protocolo de Cooperação U.Porto -- CGD](https://www.up.pt/apoios/)
-
+ - We also acknowledge partial support by U.Porto and CGD through the [Protocolo de Cooperação U.Porto -- CGD](https://www.up.pt/apoios/)  
 <img align="left" width="45%" src="{{ site.baseurl }}/logos/UPORTO.jpg">
-<img align="right" width="25%" src="{{ site.baseurl }}/logos/CGD.png">
+<img align="right" width="25%" src="{{ site.baseurl }}/logos/cgd.png">
 <!--
 -->
 
