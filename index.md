@@ -77,6 +77,8 @@ DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
 
 <img align="right" width="45%" src="{{ site.baseurl }}/logos/LogoCMUP_positivo.png" ><img align="left" width="45%" src="{{ site.baseurl }}/logos/2017_FCT_H_preto.png">
 
+<p/>
+
 We also acknowledge partial support by U.Porto and CGD through the "Protocolo de Cooperação U.Porto — CGD"
 
 <img align="right" width="45%" src="{{ site.baseurl }}/logos/UPORTO.png" ><img align="left" width="45%" src="{{ site.baseurl }}/logos/CGD.png">
@@ -91,9 +93,8 @@ acknowledge Russ's grant, Primož's project
 This workshop is supported by ***
 -->
 
-<!-- 
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
 email via [{{site.email}}](mailto:{{site.email}}).
- -->
+
