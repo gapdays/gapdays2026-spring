@@ -20,6 +20,9 @@ participants:
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: Josh Bridges, affiliation: "University of Birmingham, UK"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Hamza BOULAKHBAR, affiliation: "National School of Applied Sciences, Ibn Tofail University, Kenitra, MOROCCO"}
+  - {name: El Bachir DOUIF, affiliation: "Ibn Tofail University, National School of Applied Sciences, Morocco"}
+  - {name: Zakariae Bouazzaoui, affiliation: "Mohamed first university, school of education and training, Morocco"}
   - {name: , affiliation: ""}
 ---
 
