@@ -76,6 +76,7 @@ This workshop is (partially) supported by FCT through [CMUP](https://cmup.pt/): 
 DOI: [10.54499/UID/00144/2025](https://doi.org/10.54499/UID/00144/2025)
 
 [<img src="{{ site.baseurl }}/logos/LogoCMUP_positivo.png" />]({{ site.baseurl }}/logos/LogoCMUP_positivo.png)
+[<img src="{{ site.baseurl }}/logos/2017_FCT_H_preto.png" />]({{ site.baseurl }}/logos/2017_FCT_H_preto.png)
 
 
 <!--
