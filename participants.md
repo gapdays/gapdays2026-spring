@@ -23,6 +23,8 @@ participants:
   - {name: Hamza BOULAKHBAR, affiliation: "National School of Applied Sciences, Ibn Tofail University, Kenitra, MOROCCO"}
   - {name: El Bachir DOUIF, affiliation: "Ibn Tofail University, National School of Applied Sciences, Morocco"}
   - {name: Zakariae Bouazzaoui, affiliation: "Mohamed first university, school of education and training, Morocco"}
+  - {name: Reinis Cirpons, affiliation: "Nantes Université, École Centrale Nantes, CNRS, Inria, LS2N, UMR 6004, France"}
+  - {name: Rafał Lutowski, affiliation: "University of Gdańsk, Poland"}
   - {name: , affiliation: ""}
 ---
 
