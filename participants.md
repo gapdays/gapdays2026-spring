@@ -25,6 +25,10 @@ participants:
   - {name: Zakariae Bouazzaoui, affiliation: "Mohamed first university, school of education and training, Morocco"}
   - {name: Reinis Cirpons, affiliation: "Nantes Université, École Centrale Nantes, CNRS, Inria, LS2N, UMR 6004, France"}
   - {name: Rafał Lutowski, affiliation: "University of Gdańsk, Poland"}
+  - {name: Kaveh Dastouri, affiliation: "BICMR, Peking University, China"}
+  - {name: José Castro, affiliation: "IPCA; FCUP, Portugal"}
+  - {name: Vedran Krčadinac, affiliation: "University of Zagreb, Croatia"}
+  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
   - {name: , affiliation: ""}
 ---
 
