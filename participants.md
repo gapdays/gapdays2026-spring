@@ -5,7 +5,7 @@ participants:
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
   - {name: Ferreira Juan David, affiliation: "CIEM - FaMAF -UNC, Argentina"}
-  - {name: Lukas Schnelle, affiliation: "ART/SLA RWTH Aachen University, Germany"}
+  - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
   - {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
   - {name: Max Horn, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Matthias Koeppe, affiliation: "University of California, Davis, USA"}
@@ -29,10 +29,9 @@ participants:
   - {name: José Castro, affiliation: "IPCA; FCUP, Portugal"}
   - {name: Vedran Krčadinac, affiliation: "University of Zagreb, Croatia"}
   - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
-  - {name: , affiliation: ""}
 ---
 
-<ol>{% assign participants = page.participants %}
+<ol>{% assign participants = page.participants | sort: "name" %}
 {% for p in participants %}
   <li>
     <strong>{{ p.name }}</strong>
