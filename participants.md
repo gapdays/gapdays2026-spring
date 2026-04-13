@@ -29,6 +29,8 @@ participants:
   - {name: José Castro, affiliation: "IPCA; FCUP, Portugal"}
   - {name: Vedran Krčadinac, affiliation: "University of Zagreb, Croatia"}
   - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
+  - {name: Neeraj Kumar, affiliation: "CMUP, Portugal"}
+  - {name: Dinis Ribeiro, affiliation: "FCUP, Portugal"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
