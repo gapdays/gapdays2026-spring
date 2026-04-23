@@ -26,7 +26,7 @@ This is a preliminary list of talks and courses accepted for this meeting.
 - Frank Lübeck: **Computing character tables of finite groups**
 - Joseph Daynger Ruiz: **Cartan Matrix Implementation in Semigroups**
 - Josh Bridges: **Small essential subgroups in fusion systems**
-- Kamil Zabielski: **The connection between primes and anti-associative magmas**
+- Kamil Zabielski: **Primes and anti-associative magmas**
 - Lukas Schnelle: **Visualising GAP objects: current status and the future**
 - Matthias Koeppe: **passagemath-gap: Python interfaces with binary packaging for GAP and its packages** (online)
 - Max Horn: **Introduction to OSCAR**
