@@ -38,4 +38,60 @@ This is a preliminary list of talks and courses accepted for this meeting.
 
 ## Detailed schedule
 
-TBA
+- **Monday**
+  - 9:00 Welcome and opening
+  - 9:30 Stand up and technical discussion
+  - 9:45 Talk
+  - 10:35 *Coffee break*
+  - 11:00 Talk/Minicourse?
+  - 12:00 *Lunch break*
+  - 14:00 Talk/Minicourse?
+  - 14.50 *Coffee break*
+  - 15:15 Talk/Minicourse?
+  - 16:15 Discussion / work session
+  - 17:00 Stand up: Results from work sessions
+
+- **Tuesday**
+  - 9:30 Stand up and technical discussion
+  - 9:45 Talk/Minicourse?
+  - 10:35 *Coffee break*
+  - 11:00 Talk/Minicourse?
+  - 12:00 *Lunch break*
+  - 14:00 Talk/Minicourse?
+  - 14.50 *Coffee break*
+  - 15:15 Talk/Minicourse?
+  - 16:15 Discussion / work session
+  - 17:00 Stand up: Results from work sessions
+
+- **Wednesday**
+  - 9:30 Stand up and technical discussion
+  - 9:45 Talk/Minicourse?
+  - 10:35 *Coffee break*
+  - 11:00 Talk/Minicourse?
+  - 12:00 *Lunch break*
+  - 14:00 Talk/Minicourse?
+  - 14.50 *Coffee break*
+  - 15:15 Talk/Minicourse?
+  - 16:15 Discussion / work session
+  - 17:00 Stand up: Results from work sessions
+
+- **Thursday**
+  - 9:30 Stand up and technical discussion
+  - 9:45 Extended discussion
+  - 10:35 *Coffee break*
+  - 11:00 Working session for developers
+  - 11:30 *Lunch break*
+  - 14:00 Talk/Minicourse?
+  - 14.50 *Coffee break*
+  - 15:15 Talk/Minicourse?
+  - 16:15 Discussion / work session
+  - 17:00 Stand up: Results from work sessions
+
+- **Friday**
+  - 9:30 Stand up and technical discussion
+  - 9:45 Working session for developers
+  - 10:35 *Coffee break*
+  - 11:00 Working session for developers
+  - 12:00 *Lunch break*
+  - 14:00 Working session for developers
+  - 15:00 Coffee and closing
