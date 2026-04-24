@@ -35,3 +35,7 @@ This is a preliminary list of talks and courses accepted for this meeting.
 - Pete Gautam: **Fusion systems in GAP**
 - Rafał Lutowski: **Math databases matter**
 - Vedran Krčadinacs: **PAG: a GAP package for constructingcombinatorial objects with prescribed automorphism groups**
+
+## Detailed schedule
+
+TBA
