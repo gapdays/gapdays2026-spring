@@ -44,9 +44,9 @@ All talks should be at most 40 minutes (including questions).
   -  9:15 Stand up and technical discussion
   -  9:45 Minicourse: Max Horn, **Introduction to OSCAR, part 3**
   - 10:30 *Coffee break*
-  - 11:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
+  - 11:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online) 
   - 12:00 *Lunch break*
-  - 14:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online)
+  - 14:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
   - 14.45 *Coffee break*
   - 15:15 Discussion / work session
   - 17:00 Stand up: Results from work sessions
