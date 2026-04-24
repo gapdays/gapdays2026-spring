@@ -10,6 +10,8 @@ title: Program
 * __Start:__ Monday 4 May 2026 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 8 May 2026
 
+We are in building FC1 on the first floor in room 107.
+
 ## Schedule
 
 We will open with a meeting at 10:00 on Monday to coordinate plans for the week,
@@ -19,80 +21,61 @@ We will close the meeting at around 15:00 on Friday.
 
 Details to be announced.
 
-## Talks and courses
-
-This is a preliminary list of talks and courses accepted for this meeting.
-
-1. Joseph Daynger Ruiz: **Cartan Matrix Implementation in Semigroups**
-1. Pedro A. García-Sánchez: **New functionalities of NumericalSgps**
-1. Lukas Schnelle: **Visualising GAP objects: current status and the future**
-1. Max Horn: **Introduction to OSCAR**
-1. Matthias Koeppe: **passagemath-gap: Python interfaces with binary packaging for GAP and its packages** (online)
-1. Kaveh Dastouri: **pi-theory of finite groups in GAP**  (online)
-1. Rafał Lutowski: **Math databases matter**
-1. Josh Bridges: **Small essential subgroups in fusion systems**
-1. Pete Gautam: **Fusion systems in GAP**
-1. Kamil Zabielski: **Primes and anti-associative magmas**
-
-
-1. Frank Lübeck: **Computing character tables of finite groups**
-1. Vedran Krčadinacs: **PAG: a GAP package for constructing combinatorial objects with prescribed automorphism groups**
-1. Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online)
-
-Talk length: 40 minutes (including questions)
-
 ## Detailed schedule
+
+All talks should be at most 40 minutes (including questions).
 
 - **Monday**
   - 10:00 Welcome and opening
-  - 10:15 Talk:  Max: OSCAR Intro, part 1 of N
+  - 10:15 Minicourse: Max Horn, **Introduction to OSCAR, part 1**
   - 11:00 *Short break*
-  - 11:15 Talk:  Joseph
+  - 11:15 Talk: Joseph Daynger Ruiz, **Cartan Matrix Implementation in Semigroups**
   - 12:00 *Lunch break*
-  - 14:00 Talk:  Pedro
-  - 14:45 Talk:  Lukas
+  - 14:00 Talk: Pedro A. García-Sánchez, **New functionalities of NumericalSgps**
+  - 14:45 Talk: Lukas Schnelle, **Visualising GAP objects, current status and the future**
   - 15:30 *Coffee break*
-  - 16:00 Talk:  Matthias Koeppe (online)
+  - 16:00 Talk: Matthias Koeppe, **passagemath-gap, Python interfaces with binary packaging for GAP and its packages** (online)
   - 17:00 End of first day
 
 - **Tuesday**
-  - 9:15 Stand up and technical discussion
-  - 9:45 Talk:   Kaveh Dastouri (online)
+  -  9:15 Stand up and technical discussion
+  -  9:45 Talk: Kaveh Dastouri, **pi-theory of finite groups in GAP** (online)
   - 10:30 *Coffee break*
-  - 11:00 Talk:  Max: OSCAR Intro, part 2 of N
+  - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2**
   - 12:00 *Lunch break*
-  - 14:00 Talk:  Rafał
+  - 14:00 Talk: Rafał Lutowski, **Math databases matter**
   - 14.45 *Coffee break*
   - 15:15 Discussion / work session
   - 17:00 Stand up: Results from work sessions
+  - 19:30 Social Dinner (details to be announced)
 
 - **Wednesday**
-  - 9:15 Stand up and technical discussion
-  - 9:45 Talk:   Max: OSCAR Intro, part 3 of N
+  -  9:15 Stand up and technical discussion
+  -  9:45 Minicourse: Max Horn, **Introduction to OSCAR, part 3**
   - 10:30 *Coffee break*
-  - 11:00 Talk:  Kamil
+  - 11:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
   - 12:00 *Lunch break*
-  - 14:00 Talk:  Olexandr
+  - 14:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online)
   - 14.45 *Coffee break*
   - 15:15 Discussion / work session
   - 17:00 Stand up: Results from work sessions
 
 - **Thursday**
-  - 9:15 Stand up and technical discussion
-  - 9:45 Talk:   Josh
+  -  9:15 Stand up and technical discussion
+  -  9:45 Talk: Josh Bridges, **Small essential subgroups in fusion systems**
   - 10:30 *Coffee break*
-  - 11:00 Talk:  Pete
+  - 11:00 Talk: Pete Gautam, **Fusion systems in GAP**
   - 11:30 *Lunch break*
-  - 14:00 Talk:
+  - 14:00 Discussion / work session
   - 14.45 *Coffee break*
   - 15:15 Discussion / work session
   - 17:00 Stand up: Results from work sessions
 
 - **Friday**
-  - 9:15 Stand up and technical discussion
-  - 9:45 Talk:   Frank
+  -  9:15 Stand up and technical discussion
+  -  9:45 Talk: Frank Lübeck, **Computing character tables of finite groups**
   - 10:30 *Coffee break*
-  - 11:00 Talk:  Vedran
+  - 11:00 Talk: Vedran Krčadinacs, **PAG: a GAP package for constructing combinatorial objects with prescribed automorphism groups**
   - 12:00 *Lunch break*
   - 14:00 Working session for developers
   - 15:00 Coffee and closing

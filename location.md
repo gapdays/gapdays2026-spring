@@ -8,7 +8,7 @@ at the Mathematics Department of the Faculty of Sciences of the University of Po
 
 FCUP is located at Rua do Campo Alegre. Ways to get there can be found at the following [link](https://www.up.pt/fcup/en/the-fcup/campus/map/).
 
-TODO: room number
+We are in building FC1 on the first floor in room 107.
 
 ## Accommodation
 
