@@ -8,6 +8,8 @@ at the Mathematics Department of the Faculty of Sciences of the University of Po
 
 FCUP is located at Rua do Campo Alegre. Ways to get there can be found at the following [link](https://www.up.pt/fcup/en/the-fcup/campus/map/).
 
+TODO: room number
+
 ## Accommodation
 
 Among the various options for the accomodation (check the common online platforms) we refer two *** hotels at a few minutes walking distance from FCUP:
@@ -23,26 +25,6 @@ At the [Mercado do Bom Sucesso](https://www.mercadobomsucesso.pt/en/) there are 
 The places referred can be easily identified in the following (google) [map](https://www.google.com/maps/d/u/1/edit?mid=1LRTwzXL5WfJJEgd3D9M5LJss8_-CCqg&usp=sharing).
 
 Further details will be made available here at a later date.
-<!-- <p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p> -->
-
-<!-- Details will be made available here at a later date. -->
-
-<!-- 
-## Address
-
-The meeting takes place at TODO: provide the address, room numbers, etc. plus perhaps directions
-
-
-## Accommodation
-
-TODO: possibly lists some recommendations for Hotels etc. ?
-
-Apartments or rooms are sometimes available on Booking.com / Airbnb / VRBO.
-
-## Restaurants
-
-TODO: recommend some restaurants? or delete this section
- -->
 
 ## Virtual locations
 
