@@ -35,8 +35,9 @@ All talks should be at most 40 minutes (including questions).
   - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2**
   - 12:00 *Lunch break*
   - 14:00 Talk: Rafał Lutowski, **Math databases matter**
-  - 14.45 *Coffee break*
-  - 15:15 Discussion / work session
+  - 14.45 Discussion / work session
+  - 15:30 *Coffee break*
+  - 16:00 Discussion / work session
   - 17:00 Stand up: Results from work sessions
   - 19:30 Social Dinner (details to be announced)
 
@@ -47,8 +48,9 @@ All talks should be at most 40 minutes (including questions).
   - 11:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online) 
   - 12:00 *Lunch break*
   - 14:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
-  - 14.45 *Coffee break*
-  - 15:15 Discussion / work session
+  - 14.45 Discussion / work session
+  - 15:30 *Coffee break*
+  - 16:00 Discussion / work session
   - 17:00 Stand up: Results from work sessions
 
 - **Thursday**
@@ -58,8 +60,8 @@ All talks should be at most 40 minutes (including questions).
   - 11:00 Talk: Pete Gautam, **Fusion systems in GAP**
   - 11:30 *Lunch break*
   - 14:00 Discussion / work session
-  - 14.45 *Coffee break*
-  - 15:15 Discussion / work session
+  - 15:30 *Coffee break*
+  - 16:00 Discussion / work session
   - 17:00 Stand up: Results from work sessions
 
 - **Friday**
@@ -74,6 +76,7 @@ All talks should be at most 40 minutes (including questions).
 
 ## Things people are interested in working on:
 
-- Max wants to release GAP 4.16
+- Max would like to release GAP 4.16.0
+- Some people might work on their packages or even create new packages
 - ...
 - for more, see our HackMD (link to follow soon)
