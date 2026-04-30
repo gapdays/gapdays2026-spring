@@ -31,6 +31,8 @@ participants:
   - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
   - {name: Neeraj Kumar, affiliation: "CMUP, Portugal"}
   - {name: Dinis Ribeiro, affiliation: "FCUP, Portugal"}
+  - {name: Iryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
+  - {name: Maryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
