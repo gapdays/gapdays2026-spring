@@ -6,39 +6,41 @@ participants:
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
   - {name: Ferreira Juan David, affiliation: "CIEM - FaMAF -UNC, Argentina"}
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
-  - {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
+  #- {name: V V K SANJEEVI MITRA, affiliation: "Independent Researcher, Hyderabad, India"}
   - {name: Max Horn, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
-  - {name: Matthias Koeppe, affiliation: "University of California, Davis, USA"}
+  - {name: Matthias Koeppe, affiliation: "University of California, Davis, USA", online: true}
   - {name: Pedro A. García-Sánchez, affiliation: "University of Granada, Spain"}
   - {name: Wilf Wilson, affiliation: "UK Met Office, UK"}
   - {name: Kamil Zabielski, affiliation: "Białystok University of Technology, Poland"}
   - {name: Pete Gautam, affiliation: "University of Manchester, UK"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, UK"}
-  - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
-  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Statistics, Faculty of Basic Sciences, University of Kashan, Kashan, I.R. Iran"}
+  #- {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
+  #- {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Statistics, Faculty of Basic Sciences, University of Kashan, Kashan, I.R. Iran"}
   - {name: Joseph Daynger Ruiz, affiliation: "University of Arizona, USA"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: Josh Bridges, affiliation: "University of Birmingham, UK"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
-  - {name: Hamza BOULAKHBAR, affiliation: "National School of Applied Sciences, Ibn Tofail University, Kenitra, MOROCCO"}
-  - {name: El Bachir DOUIF, affiliation: "Ibn Tofail University, National School of Applied Sciences, Morocco"}
+  #- {name: Hamza BOULAKHBAR, affiliation: "National School of Applied Sciences, Ibn Tofail University, Kenitra, MOROCCO"}
+  #- {name: El Bachir DOUIF, affiliation: "Ibn Tofail University, National School of Applied Sciences, Morocco"}
   - {name: Zakariae Bouazzaoui, affiliation: "Mohamed first university, school of education and training, Morocco"}
   - {name: Reinis Cirpons, affiliation: "Nantes Université, École Centrale Nantes, CNRS, Inria, LS2N, UMR 6004, France"}
   - {name: Rafał Lutowski, affiliation: "University of Gdańsk, Poland"}
-  - {name: Kaveh Dastouri, affiliation: "BICMR, Peking University, China"}
+  - {name: Kaveh Dastouri, affiliation: "BICMR, Peking University, China", online: true}
   - {name: José Castro, affiliation: "IPCA; FCUP, Portugal"}
   - {name: Vedran Krčadinac, affiliation: "University of Zagreb, Croatia"}
-  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
+  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland", online: true}
   - {name: Neeraj Kumar, affiliation: "CMUP, Portugal"}
   - {name: Dinis Ribeiro, affiliation: "FCUP, Portugal"}
-  - {name: Iryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
-  - {name: Maryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
+  - {name: Iryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine", online: true}
+  - {name: Maryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine", online: true}
 ---
+
+Online participants shown in <span style="color: blue; font-style: italic">blue italics</span>.
 
 <ol>{% assign participants = page.participants | sort: "name" %}
 {% for p in participants %}
   <li>
-    <strong>{{ p.name }}</strong>
+    <strong{% if p.online == true %} style="color: blue; font-style: italic"{% endif %}>{{ p.name }}</strong>
     {% if p.affiliation != null %} ({{ p.affiliation }}){% endif %}
     {% if p.links != null %}
         {% for item in p.links %}
