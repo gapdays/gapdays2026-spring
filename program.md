@@ -20,10 +20,10 @@ All talks should be at most 40 minutes (including questions).
   - 10:00 Welcome and opening
   - 10:15 Minicourse: Max Horn, **Introduction to OSCAR, part 1** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part1.pdf))
   - 11:00 *Short break*
-  - 11:15 Talk: Joseph Daynger Ruiz, **Cartan Matrix Implementation in Semigroups**
+  - 11:15 Talk: Joseph Daynger Ruiz, **Cartan Matrix Implementation in Semigroups** ([slides]({{ site.baseurl }}/slides/cartan-matrix.pdf))
   - 12:00 *Lunch break*
-  - 14:00 Talk: Pedro A. García-Sánchez, **New functionalities of NumericalSgps**
-  - 14:45 Talk: Lukas Schnelle, **Visualising GAP objects, current status and the future**
+  - 14:00 Talk: Pedro A. García-Sánchez, **New functionalities of NumericalSgps** ([slides]({{ site.baseurl }}/slides/new-functionality-of-numericalsgps.pdf))
+  - 14:45 Talk: Lukas Schnelle, **Visualising GAP objects, current status and the future** ([slides]({{ site.baseurl }}/slides/visualization.pdf))
   - 15:30 *Coffee break*
   - 16:00 Talk: Matthias Koeppe, **passagemath-gap, Python interfaces with binary packaging for GAP and its packages** (online)
   - 17:00 End of first day
