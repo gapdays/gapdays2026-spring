@@ -13,7 +13,9 @@ Please note that this list will be updated on the go, as we find more things tha
 
 - You should have a recent version of GAP installed (ideally 4.15.x or a development version built from the master branch)
 
-- for the OSCAR mini course, consider [installing Julia and OSCAR](https://www.oscar-system.org/install) beforehand
+- for the OSCAR mini course:
+  - consider [installing Julia and OSCAR](https://www.oscar-system.org/install) beforehand
+  - a previous iteration of the slides were made for the [COGENT Winter School 2025](https://www.oscar-system.org/events/meetings/2025-12/), including some exercises
 
 
 In addition, we invite to bring a travel drinking cup for use during coffee breaks,
