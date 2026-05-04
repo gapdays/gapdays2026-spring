@@ -18,7 +18,7 @@ All talks should be at most 40 minutes (including questions).
 
 - **Monday**
   - 10:00 Welcome and opening
-  - 10:15 Minicourse: Max Horn, **Introduction to OSCAR, part 1**
+  - 10:15 Minicourse: Max Horn, **Introduction to OSCAR, part 1** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part1.pdf))
   - 11:00 *Short break*
   - 11:15 Talk: Joseph Daynger Ruiz, **Cartan Matrix Implementation in Semigroups**
   - 12:00 *Lunch break*
