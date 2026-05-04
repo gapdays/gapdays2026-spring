@@ -79,4 +79,4 @@ All talks should be at most 40 minutes (including questions).
 - Max would like to release GAP 4.16.0
 - Some people might work on their packages or even create new packages
 - ...
-- for more, see our HackMD (link to follow soon)
+- for more, see [our HackMD](https://hackmd.io/@gapdays/2026-spring)
