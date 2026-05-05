@@ -32,7 +32,7 @@ All talks should be at most 40 minutes (including questions).
   -  9:15 Stand up and technical discussion
   -  9:45 Talk: Kaveh Dastouri, **$$\pi$$-theory of finite groups in GAP** (online)
   - 10:30 *Coffee break* and *Group Photo*
-  - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2**
+  - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part2.pdf))
   - 12:00 *Lunch break*
   - 14:00 Talk: Rafał Lutowski, **Math databases matter**
   - 14.45 Discussion / work session
