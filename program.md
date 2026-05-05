@@ -31,15 +31,15 @@ All talks should be at most 40 minutes (including questions).
 - **Tuesday**
   -  9:15 Stand up and technical discussion
   -  9:45 Talk: Kaveh Dastouri, **pi-theory of finite groups in GAP** (online)
-  - 10:30 *Coffee break*
+  - 10:30 *Coffee break* and *Group Photo*
   - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2**
   - 12:00 *Lunch break*
   - 14:00 Talk: Rafał Lutowski, **Math databases matter**
   - 14.45 Discussion / work session
-  - 15:30 *Coffee break*
+  - 15:30 *Coffee break* and *Interactive Maths Room visit*
   - 16:00 Discussion / work session
   - 17:00 Stand up: Results from work sessions
-  - 19:30 Social Dinner (details to be announced)
+  - 19:30 Social Dinner, at [Capa Negra II](https://maps.app.goo.gl/e1U9LngmQkE6ziNJA)
 
 - **Wednesday**
   -  9:15 Stand up and technical discussion
