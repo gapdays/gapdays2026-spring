@@ -30,7 +30,7 @@ All talks should be at most 40 minutes (including questions).
 
 - **Tuesday**
   -  9:15 Stand up and technical discussion
-  -  9:45 Talk: Kaveh Dastouri, **pi-theory of finite groups in GAP** (online)
+  -  9:45 Talk: Kaveh Dastouri, **$$\pi$$-theory of finite groups in GAP** (online)
   - 10:30 *Coffee break* and *Group Photo*
   - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2**
   - 12:00 *Lunch break*
