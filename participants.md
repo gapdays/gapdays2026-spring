@@ -68,7 +68,5 @@ Online participants shown in <span style="color: blue; font-style: italic">blue 
 
 {% endif %}
 
-<!--
 ## Conference photo
-[<img src="{{ site.baseurl }}/public/conf_photo.jpg" />]({{ site.baseurl }}/public/conf_photo.jpg)
--->
+[<img src="{{ site.baseurl }}/public/gapdays2026-spring_small.jpg" />]({{ site.baseurl }}/public/gapdays2026-spring.jpg)
