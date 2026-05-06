@@ -43,7 +43,7 @@ All talks should be at most 40 minutes (including questions).
 
 - **Wednesday**
   -  9:15 Stand up and technical discussion
-  -  9:45 Minicourse: Max Horn, **Introduction to OSCAR, part 3**
+  -  9:45 Minicourse: Max Horn, **Introduction to OSCAR, part 3** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part2.pdf), [semigroups.jl]({{ site.baseurl }}/slides/semigroups.jl))
   - 10:30 *Coffee break*
   - 11:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online) 
   - 12:00 *Lunch break*
