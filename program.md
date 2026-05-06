@@ -50,8 +50,7 @@ All talks should be at most 40 minutes (including questions).
   - 14:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
   - 14.45 Discussion / work session
   - 15:30 *Coffee break*
-  - 16:00 Discussion / work session
-  - 17:00 Stand up: Results from work sessions
+  - 16:00 Stand up: Results from work sessions
 
 - **Thursday**
   -  9:15 Stand up and technical discussion
@@ -61,8 +60,7 @@ All talks should be at most 40 minutes (including questions).
   - 11:30 *Lunch break*
   - 14:00 Discussion / work session
   - 15:30 *Coffee break*
-  - 16:00 Discussion / work session
-  - 17:00 Stand up: Results from work sessions
+  - 16:00 Stand up: Results from work sessions
 
 - **Friday**
   -  9:15 Stand up and technical discussion
