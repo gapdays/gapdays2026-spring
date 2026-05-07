@@ -54,9 +54,9 @@ All talks should be at most 40 minutes (including questions).
 
 - **Thursday**
   -  9:15 Stand up and technical discussion
-  -  9:45 Talk: Josh Bridges, **Small essential subgroups in fusion systems**
+  -  9:45 Talk: Josh Bridges, **Small essential subgroups in fusion systems** ([slides]({{ site.baseurl }}/slides/small-essentials-fusion.pdf)
   - 10:30 *Coffee break*
-  - 11:00 Talk: Pete Gautam, **Fusion systems in GAP**
+  - 11:00 Talk: Pete Gautam, **Fusion systems in GAP** ([slides]({{ site.baseurl }}/slides/fusion-gap.pdf)
   - 12:00 *Lunch break*
   - 14:00 Discussion / work session
   - 15:30 *Coffee break*
