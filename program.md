@@ -66,7 +66,7 @@ All talks should be at most 40 minutes (including questions).
   -  9:15 Stand up and technical discussion
   -  9:45 Talk: Frank Lübeck, **Computing character tables of finite groups**
   - 10:30 *Coffee break*
-  - 11:00 Talk: Vedran Krčadinacs, **PAG: a GAP package for constructing combinatorial objects with prescribed automorphism groups**
+  - 11:00 Talk: Vedran Krčadinacs, **PAG: a GAP package for constructing combinatorial objects with prescribed automorphism groups** ([slides]({{ site.baseurl }}/slides/PAG.pdf))
   - 12:00 *Lunch break*
   - 14:00 Working session for developers
   - 15:00 Coffee and closing
